@@ -1,5 +1,5 @@
 # mccluskey-interpreter-py
-This program takes a minimalised boolean function written in !a!b + !abc convention and calculates it's logic value in python</br>
+This program takes a minimalised boolean function written in !a!b + !abc convention and calculates its logic value in python</br>
 in code descriptions are in polish for now
 
 # convention
